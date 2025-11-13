@@ -10,15 +10,9 @@ A complete blockchain-based supply chain transparency solution built on the IOTA
 - [Technology Stack](#technology-stack)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Smart Contracts](#smart-contracts)
 - [Frontend Application](#frontend-application)
-- [Deployment](#deployment)
-- [API Documentation](#api-documentation)
 - [Usage Examples](#usage-examples)
 - [Configuration](#configuration)
-- [Build Commands](#build--run-commands)
-- [Security](#security-features)
-- [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -27,6 +21,10 @@ A complete blockchain-based supply chain transparency solution built on the IOTA
 ## 🎯 Overview
 
 **TrackIT** is an innovative supply chain solution that leverages the IOTA blockchain to provide complete transparency and authenticity verification for products moving through the supply chain. From manufacturer to consumer, every step is recorded immutably on the blockchain.
+
+## Live Application link - 
+
+https://bespoke-genie-8774a5.netlify.app              
 
 ### Key Benefits
 
