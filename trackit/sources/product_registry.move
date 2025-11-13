@@ -1,9 +1,3 @@
-// Copyright (c) Mysten Labs, Inc.
-// Modifications Copyright (c) 2024 IOTA Stiftung
-// SPDX-License-Identifier: Apache-2.0
-
-/// This example illustrates how to use the `Token` without a `TokenPolicy`. And
-/// only rely on `TreasuryCap` for minting and burning tokens.
 module trackit::product_registry {
     use iota::tx_context::{TxContext, sender};
     use iota::coin::{Self, TreasuryCap, Coin};
